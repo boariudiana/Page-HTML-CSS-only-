@@ -1,1 +1,1 @@
-# Page-HTML-CSS-only-
+# Page-HTML-CSS-only- is a responsive web page created with css and Html only in order to practice my skills
